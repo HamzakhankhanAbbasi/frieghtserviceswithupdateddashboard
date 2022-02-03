@@ -1,0 +1,160 @@
+@media only screen and (max-width: 1600px) {
+    .dealer-dashboard-wrap .nav .nav-link, .dealer-dashboard-wrap .nav .nav-link.active {
+        max-width: 290px;
+        min-width: 290px;
+    }
+    .load-details-page {
+        max-width: 78%;
+    }
+    .closeBtn {
+        right: -10px;
+    }
+    .map-image img {
+        max-width: 600px;
+        min-width: 600px;
+        min-height: 800px;
+        max-height: 800px;
+    }
+}
+@media only screen and (max-width:1440px) {
+    .dealer-dashboard-wrap .nav .nav-link, .dealer-dashboard-wrap .nav .nav-link.active {
+        max-width: 220px;
+        min-width: 220px;
+    }
+    .inner-tb-title {
+        font-size: 18px;
+    }
+    .inner-tabs-img img {
+        max-width: 40px;
+        min-height: 40px;
+    } 
+    .map-image img {
+        max-width: 450px;
+        min-width: 450px;
+        min-height: 700px;
+        max-height: 700px;
+    }
+    .path-image {
+        top: 210px;
+        left: 180px;
+    }
+    .path-image img {
+        max-width: 200px;
+    }
+    .map-inprocess-btn a {
+        padding: 10px 150px;
+    }
+    .closeBtn {
+        right: 70px;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .main-left-wrap {
+        max-width: 270px;
+    }
+    .main-right-wrap {
+        width: calc(100% - 270px);
+        padding: 30px;
+        margin-left: 270px;
+    }
+    .dealer-dashboard-wrap .nav .nav-link, .dealer-dashboard-wrap .nav .nav-link.active {
+        max-width: 200px;
+        min-width: 200px;
+        padding: 20px 10px;
+        margin-bottom: 15px;
+    }
+    .user-info-box {
+        max-width: 750px;
+    }
+    .user-dashboard {
+        padding: 15px 20px;
+    }
+    .unassigned-box {
+        padding: 20px;
+    }
+    .pink-text {
+        font-size: 16px;
+    }
+    .grey-text {
+        font-size: 14px;
+    }
+    .unassigned-dotted-img1 {
+        top: 90px;
+        left: 22px;
+    }
+    .bx-3 {
+        margin-top: 60px;
+    }
+    .unassigned-dotted-img2 {
+        top: 90px;
+        right: 44%;
+    }
+    .unassigned-dotted-img3 {
+        bottom: 25%;
+        left: 21px;
+    }
+    .unassigned-dotted-img4 {
+        bottom: 25%;
+        right: 44%;
+    }
+    .order-detail-box {
+        width: 100%;
+    }
+    .order-dotted-img {
+        top: 46.5%;
+        left: 21px;
+    }
+    .order-dotted-img2 {
+        top: 46.5%;
+        right: 44%;
+    }
+    .order-dotted-img3 {
+        bottom: 16%;
+        left: 21px;
+    }
+    .order-dotted-img4 {
+        bottom: 16%;
+        right: 44%;
+    }
+    .order-dotted-img {
+        top: 44.5%;
+        left: 21px;
+    }
+    .order-dotted-img2 {
+        position: absolute;
+        top: 44.5%;
+        right: 44%;
+    }
+    .inquireBtn {
+        margin-top: 30px;
+    }
+    .type a {
+        padding: 8px 10px;
+    }
+    .loadP-bold-text {
+        font-size: 25px;
+    }
+    .map-image img {
+        max-width: 250px;
+        min-width: 250px;
+        min-height: 450px;
+        max-height: 450px;
+    }
+    .path-image {
+        top: 130px;
+        left: 80px;
+    }
+    .path-image img {
+        max-width: 130px;
+    }
+    .map-inprocess-btn {
+        text-align: left;
+    }
+    .map-inprocess-btn a {
+        padding: 10px 80px;
+    }
+    .closeBtn {
+        right: 105px;
+        top: 10px;
+    }
+}

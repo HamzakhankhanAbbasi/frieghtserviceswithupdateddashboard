@@ -1,0 +1,426 @@
+@media only screen and (max-width: 1600px) {
+    .dealer-dashboard-wrap .nav .nav-link, .dealer-dashboard-wrap .nav .nav-link.active {
+        max-width: 290px;
+        min-width: 290px;
+    }
+    .load-details-page {
+        padding: 30px;
+        left: 20%;
+    }
+    .closeBtn {
+        right: -10px;
+    }
+    .map-image img {
+        max-width: 600px;
+        min-height: 800px;
+    }
+    .inquireBtn .addprice {
+        right: 30%;
+    }
+    .load-details-page {
+        max-width: 1260px;
+        padding: 20px;
+    }
+}
+@media only screen and (max-width:1440px) {
+    .dealer-dashboard-wrap .nav .nav-link, .dealer-dashboard-wrap .nav .nav-link.active {
+        max-width: 220px;
+        min-width: 220px;
+    }
+    .inner-tb-title {
+        font-size: 18px;
+    }
+    .inner-tabs-img img {
+        max-width: 40px;
+        min-height: 40px;
+    } 
+    .map-image img {
+        max-width: 500px;
+        min-height: 650px;
+    }
+    .path-image {
+        top: 210px;
+        left: 180px;
+    }
+    .path-image img {
+        max-width: 200px;
+    }
+    .map-inprocess-btn a {
+        padding: 10px 150px;
+    }
+    .closeBtn {
+        right: 20px;
+    }
+    .inquireBtn .addprice {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .inquireBtn .booknow {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .load-details-page {
+        left: 23%;
+    }
+    .input_icons input {
+        max-width: 150px;
+    }
+    .load-details-page {
+        max-width: 1100px;
+    }
+    .paddingcls {
+        padding-top: 20px;
+    }
+}
+@media only screen and (max-width: 1366px) {
+    .load-details-page {
+        max-width: 1040px;
+    }
+    .map-image img {
+        max-width: 470px;
+    }
+    .table-sec3 {
+        max-width: 120px;
+    }
+    .table-box2 {
+        max-width: 120px;
+    }
+}
+@media only screen and (max-width: 1280px) {
+    .map-image img {
+        max-width: 400px;
+        min-height: 400px;
+    }
+    .load-details-page {
+        max-width: 950px;
+        left: 25%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .main-left-wrap {
+        max-width: 270px;
+    }
+    .main-right-wrap {
+        width: calc(100% - 270px);
+        padding: 30px;
+        margin-left: auto;
+    }
+    .dealer-dashboard-wrap .nav .nav-link, .dealer-dashboard-wrap .nav .nav-link.active {
+        max-width: 200px;
+        min-width: 200px;
+        padding: 20px 10px;
+        margin-bottom: 15px;
+    }
+    .user-info-box {
+        max-width: 750px;
+    }
+    .user-dashboard {
+        padding: 15px 20px;
+    }
+    .unassigned-box {
+        padding: 20px;
+    }
+    .pink-text {
+        font-size: 16px;
+    }
+    .grey-text {
+        font-size: 14px;
+    }
+    .unassigned-dotted-img1 {
+        top: 90px;
+        left: 22px;
+    }
+    .bx-3 {
+        margin-top: 60px;
+    }
+    .unassigned-dotted-img2 {
+        top: 90px;
+        right: 44%;
+    }
+    .unassigned-dotted-img3 {
+        bottom: 25%;
+        left: 21px;
+    }
+    .unassigned-dotted-img4 {
+        bottom: 25%;
+        right: 44%;
+    }
+    .order-detail-box {
+        width: 100%;
+    }
+    .order-dotted-img {
+        top: 46.5%;
+        left: 21px;
+    }
+    .order-dotted-img2 {
+        top: 46.5%;
+        right: 44%;
+    }
+    .order-dotted-img3 {
+        bottom: 16%;
+        left: 21px;
+    }
+    .order-dotted-img4 {
+        bottom: 16%;
+        right: 44%;
+    }
+    .order-dotted-img {
+        top: 44.5%;
+        left: 21px;
+    }
+    .order-dotted-img2 {
+        position: absolute;
+        top: 44.5%;
+        right: 44%;
+    }
+    .inquireBtn {
+        margin-top: 30px;
+    }
+    .type a {
+        padding: 8px 10px;
+    }
+    .loadP-bold-text {
+        font-size: 25px;
+    }
+    .path-image {
+        top: 130px;
+        left: 80px;
+    }
+    .path-image img {
+        max-width: 130px;
+    }
+    .map-inprocess-btn {
+        text-align: left;
+    }
+    .map-inprocess-btn a {
+        padding: 10px 80px;
+    }
+    .closeBtn {
+        right: 1px;
+        top: 1px;
+    }
+    .table-box2 {
+        max-width: 110px;
+    }
+    .table-sec3 {
+        max-width: 110px;
+    }
+    /*======*/
+    .closeBtn-top {
+        display: flex;
+    }
+    .menuBar-btn {
+        display: flex;
+    }
+    .main-left-wrap{
+        left: -100%;
+    }
+    .main-left-wrap.active {
+        left: 0;
+    }
+    .user-dashboard {
+        width: calc(100% - 0px);
+    }
+    .main-right-wrap {
+        width: calc(100% - 0px);
+    }
+    .header-right-sect {
+        max-width: 600px;
+        padding-right: 50px;
+    }
+    /*======*/
+    .load-details-page {
+        max-width: unset;
+        left: 0;
+        width: 100%;
+    }
+    .map-image img {
+        max-width: unset;
+        min-height: unset;
+        width: 100%;
+    }
+    .inquireBtn button {
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+    .my-order-sec1 .unassigned-dotted-img4 {
+        top: 90px;
+        left: 22px;
+    }
+
+}
+@media only screen and (max-width: 1024px) {
+    .table-box2 {
+        max-width: 100px;
+    }
+    .table-sec3 {
+        max-width: 100px;
+    }
+    .inquireBtn button {
+        padding: 5px 15px;
+        font-size: 14px;
+    }
+    .my-order-sec1 .unassigned-dotted-img4 {
+        top: 90px;
+        left: 22px;
+    }
+    .box-s1 a {
+        width: 90px;
+        height: 30px;
+    }
+}
+@media only screen and (max-width: 910px) {
+    .unassigned-sec1 {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .user-info-box {
+        max-width: 600px;
+        padding: 20px 30px 20px;
+    }
+    .avatar-upload .avatar-preview {
+        width: 80px;
+        height: 80px;
+    }
+    .avatar-upload .avatar-edit input + label {
+        width: 30px;
+        height: 30px;
+    }
+    .avatar-upload .avatar-edit {
+        right: 30px;
+        top: 0px;
+    }
+    .input_icons {
+        margin: 0px 10px 20px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .bx-3 {
+        margin-top: 50px;
+    }
+    .paddingcls .loadoffer-btn {
+        margin-bottom: 10px;
+    }
+    .paddingcls {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .commodity-sect {
+        padding: 20px 0px 10px 15px;
+    }
+    .load-btn {
+        padding: 10px 20px;
+        margin-bottom: 20px;
+    }
+    .scrollbar-sect {
+        width: 720px;
+    }
+    .unassigned-sec3 {
+        width: 750px;
+    }
+    .unassign-table {
+        width: 750px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .user-dashboard {
+        position: absolute;
+    }
+    .load-details-page {
+        top: -190%;
+    }
+    .paddingcls {
+        display: block;
+    }
+    .map-image {
+        margin-top: 20px;
+    }
+    .map-image img {
+        max-width: 400px;
+        min-height: 400px;
+    }
+    .header-right-sect {
+        max-width: 270px;
+        padding-right: 30px;
+    }
+    .search-field {
+        position: absolute;
+        bottom: 10px;
+        left: 15px;
+    }
+    .user-dashboard {
+        padding: 20px 20px 60px;
+        position: relative;
+    }
+    .load-details-page.active {
+        top: 160px;
+    }
+    .scrollbar-sect {
+        width: 530px;
+    }
+    .unassigned-sec3 {
+        border: none;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .user-dashboard {
+        display: block;
+    }
+    .header-left-sect {
+        padding: 0px 0 10px;
+    }
+    .header-right-sect {
+        padding-bottom: 10px;
+    }
+    .menuBar-btn {
+        top: 40px;
+    }
+    .load-details-page.active {
+        top: 225px;
+    }
+    .paddingcls {
+        display: flex;
+    }
+    .scrollbar-sect {
+        width: 350px;
+    }
+    .heading-text {
+        font-size: 18px;
+    }
+    .small-text {
+        font-size: 14px;
+    }
+    .dealer-dashboard-wrap .nav .nav-link, .dealer-dashboard-wrap .nav .nav-link.active {
+        min-height: 60px;
+        padding: 10px;
+    }
+    .unassigned-sec2-inner {
+        flex-direction: column;
+    }
+    .my-order-sec1 .unassigned-dotted-img4 {
+        display: none;
+    }
+    .unassigned-box {
+        padding: 20px 10px 50px;
+    }
+}
+@media only screen and (max-width: 375px) {
+    .type a {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    .bx-3 {
+        margin-top: 30px;
+    }
+    .dealer-dashboard-wrap .nav {
+        margin-bottom: 10px;
+    }
+    .pink-text {
+        font-size: 12px;
+    }
+    .scrollbar-sect {
+        width: 270px;
+    }
+}

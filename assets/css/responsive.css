@@ -1,0 +1,839 @@
+@media only screen and (max-width: 1366px) {
+    .banner-section .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        left: 15px;
+    }
+    .banner-section .swiper-button-next, .swiper-rtl .swiper-button-prev {
+        right: 15px;
+    }
+    .blog .titleText:before {
+        left: 42%;
+    }
+    .blog .titleText::after {
+        right: 42%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .banner-section .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        display: none;
+    }
+    .banner-section .swiper-button-next, .swiper-rtl .swiper-button-prev {
+        display: none;
+    }
+    .bannerText-border {
+        font-size: 25px;
+        max-width: 250px;
+    }
+    .boldText {
+        font-size: 60px;
+    }
+    .semiBoldtext {
+        font-size: 45px;
+    }
+    .service-section .titleText:before {
+        left: 38%;
+    }
+    .service-section .titleText:after {
+        right: 38%;
+    }
+    .service-card img {
+        max-width: 320px;
+    }
+    .service-card {
+        min-height: 340px;
+        max-height: 340px;
+        max-width: 320px;
+    }
+    .skill-progressBar {
+        max-width: 450px;
+    }
+    .footerCol .paraText {
+        max-width: 400px;
+    }
+    .footer-sect {
+        padding: 170px 0px;
+    }
+    /* service page */
+    .service-card2 {
+        max-width: 320px;
+    }
+    .service-card2 img {
+        max-width: 318px;
+        min-height: 200px;
+    }
+    .blog .titleText:before {
+        left: 40%;
+    }
+    .blog .titleText::after {
+        right: 40%;
+    }
+    .blog-img img {
+        max-width: 650px;
+        min-height: 450px;
+    }
+    .blogLeft-bgwhite {
+        max-width: 550px;
+        top: 26.5%;
+        padding: 20px 0px 30px;
+    }
+    .particular-border:before {
+        width: 485px;
+    }
+    .bg-orange {
+        right: -6%;
+        top: 31%;
+    }
+    .blogRight-wrap {
+        margin-top: 20px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .semiBoldtext {
+        font-size: 40px;
+    }
+    .testimonial-sect .titleText:before {
+        left: 39%;
+    }
+    .testimonial-sect .titleText:after {
+        right: 39%;
+    }
+    .testiBox {
+        max-width: 470px;
+    }
+    /* service page */
+    .service-card2 {
+        max-width: 310px;
+    }
+    .service-card2 img {
+        max-width: 308px;
+    }
+    .client-sect .swiper .swiper-button-prev.customswiper-btn {
+        left: 46%;
+    }
+    .client-sect .swiper .swiper-button-next, .swiper-button-prev {
+        right: 46% !important;
+    }
+}
+@media only screen and (max-width:991px){
+    .boldText {
+        font-size: 45px;
+    }
+    .about-img1, .about-img2, .about-img3 {
+        max-width: 300px;
+        min-height: 300px;
+    }
+    .about-section .paraText {
+        padding: 10px 0px 10px;
+    }
+    .service-card {
+        min-height: 290px;
+        max-height: 290px;
+        max-width: 270px;
+    }
+    .service-card img {
+        max-width: 250px;
+    }
+    .service-section .swiper-button-next, .swiper-button-prev {
+        top: 35% !important;
+    }
+    .service-section .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        left: 15px;
+    }
+    .service-section .swiper-button-next, .swiper-rtl .swiper-button-prev {
+        right: 15px;
+    }
+    .service-cardbottom .middleText {
+        font-size: 20px;
+    }
+    .testiBox {
+        max-width: 430px;
+        padding: 10px 40px;
+    }
+    .skill-progressBar {
+        max-width: 400px;
+    }
+    .service-section .titleText:before {
+        left: 37%;
+    }
+    .service-section .titleText:after {
+        right: 37%;
+    }
+    .testimonial-sect .customswiper-btn {
+        top: 50% !important;
+    }
+    /* service page */
+    .service-card2 img {
+        max-width: 280px;
+    }
+    .service-card2 {
+        max-width: 280px;
+        min-height: 630px;
+        max-height: 630px;
+    }
+    .servicePage {
+        padding-bottom: 50px !important;
+    }
+    .aboutSkill {
+        min-height: 450px;
+    }
+    /* contact page */
+    .titleContact {
+        font-size: 30px;
+    }
+    /* blog */
+    .blog .titleText:before {
+        left: 38%;
+    }
+    .blog .titleText::after {
+        right: 38%;
+    }
+    .blog-img img {
+        max-width: 580px;
+        min-height: 400px;
+    }
+    .blogTitle {
+        font-size: 20px;
+    }
+    .blogLeft-bgwhite {
+        max-width: 480px;
+        top: 25.5%;
+    }
+    .blogLeft-wrap {
+        min-height: 1400px;
+    }
+    .bg-orange {
+        right: -8%;
+        top: 30.2%;
+    }
+    .particular-border:before {
+        width: 415px;
+    }
+    .new-pImages img {
+        max-width: 80px;
+    }
+    .post-text {
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width: 910px) {
+    .menuToogle {
+        display: flex;
+    }
+    .all-links {
+        display: flex;
+        background: #f98700;
+        max-width: 400px;
+        min-width: 400px;
+        min-height: 850px;
+        position: absolute;
+        right: -100%;
+        top: 0;
+        z-index: 9999;
+        flex-direction: column;
+        justify-content: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .all-links.show{
+        right: 0;
+    }
+    .all-links li{
+        padding: 10px 0;
+    }
+    .closeBtn {
+        display: flex;
+    }
+    /* Banner */
+    .banner-section {
+        min-height: 750px;
+    }
+    .boldText {
+        font-size: 40px;
+    }
+    .about-img1, .about-img2, .about-img3 {
+        max-width: 230px;
+        min-height: 230px;
+    }
+    .about-section {
+        padding-bottom: 60px;
+    }
+    .semiBoldtext {
+        font-size: 32px;
+    }
+    .service-section .titleText:after {
+        right: 34%;
+    }
+    .service-section .titleText:before {
+        left: 34%;
+    }
+    .service-card {
+        min-height: 330px;
+        max-height: 330px;
+        max-width: 330px;
+    }
+    .service-card img {
+        max-width: 330px;
+    }
+    .service-section {
+        padding-bottom: 0;
+    }
+    .title h3 {
+        font-size: 20px;
+    } 
+    .skill-progressBar {
+        max-width: 320px;
+    } 
+    .testiBox {
+        max-width: 320px;
+        padding: 10px 30px;
+        margin-top: 30px;
+    }  
+    .testiIcons i {
+        top: 3%;
+    }
+    .testimonial-sect .titleText:before {
+        left: 36%;
+    }
+    .testimonial-sect .titleText:after {
+        right: 36%;
+    }
+    .footerCol img {
+        max-width: 130px;
+    }
+    .footerCol .paraText {
+        max-width: 220px;
+    }
+    .footer-sect {
+        padding: 125px 0px;
+    }
+    .bottombg-footerInner .paraText {
+        font-size: 14px;
+    }
+    .social-icons-sect1 {
+        display: none;
+    }
+    .top-header-bg .container {
+        justify-content: end;
+    }
+    .social-icons-sect2 a:first-child {
+        display: none;
+    }
+    /* About Page */
+    .aboutPage {
+        background-size: cover;
+        min-height: 450px;
+        max-height: 450px;
+        padding-top: 120px;
+    }
+    /* service page */
+    .service-card2 {
+        max-width: 230px;
+        min-height: 730px;
+        max-height: 730px;
+    }
+    .service-card2 img {
+        max-width: 230px;
+    }
+    /* contact page css start here */
+    .contactBox2 {
+        max-width: 150px;
+        margin-left: 10px;
+    }
+    .contactBox {
+        padding: 10px 10px 0;
+    }
+    .contactIcon {
+        width: 50px;
+        height: 70px;
+    }  
+    .contactIcon img {
+        max-width: 25px;
+    }
+    .client-sect .swiper .swiper-button-prev.customswiper-btn {
+        top: 80% !important;
+    }  
+    .contactBox {
+        margin: 0 auto 30px;
+    }  
+    .contactBox:hover .contactIcon {
+        width: 50px;
+        height: 100px;
+        margin-top: -10px;
+        margin-left: -10px;
+    } 
+     /*Blog page css  */
+     .blog .titleText:before {
+        left: 36%;
+    }
+    .blog .titleText::after {
+        right: 36%;
+    }
+     .blog-img img {
+        max-width: 500px;
+        min-height: 340px;
+    }
+    .blogLeft-bgwhite {
+        max-width: 430px;
+        top: 22.5%;
+    }
+    .blogTitle {
+        font-size: 18px;
+    }
+    .B-text {
+        padding-left: 10px;
+    }
+    .particular-border:before {
+        width: 360px;
+    }
+    .Blog-date {
+        font-size: 16px;
+    }
+    .bg-orange {
+        right: -10%;
+        top: 26.2%;
+    }
+    .posts {
+        padding: 30px 10px;
+    }
+}
+@media only screen and (max-width:767px){
+    .banner-sect-text {
+        padding-top: 50px;
+    }
+    .about-img1, .about-img2, .about-img3 {
+        display: none;
+    }
+    .service-section .titleText:before {
+        left: 29%;
+    }
+    .service-section .titleText:after {
+        right: 29%;
+    }
+    .request-quote-sect {
+        padding-top: 50px;
+    }   
+    .req-innert-sect {
+        padding-top: 0px;
+        margin-bottom: 30px;
+    }
+    .req-form {
+        padding: 20px 40px;
+    }
+    .skill-sect {
+        padding: 0px;
+        min-height: 770px;
+    }
+    .skill-progressBar {
+        max-width: 500px;
+    }
+    .title h3 {
+        font-size: 18px;
+    }
+    .inner-skill-sect {
+        margin-top: 30px;
+    }
+    .semiBoldtext {
+        font-size: 25px;
+    }
+    .playBtn-2 {
+        top: 35%;
+        left: 42%;
+    }
+    .playBtn-2 a i {
+        width: 60px;
+        height: 60px;
+    } 
+    .small-icons img {
+        max-width: 50px;
+        min-height: 50px;
+        max-height: 50px;
+    } 
+    .textNumber {
+        font-size: 30px;
+    }  
+    .testimonial-sect {
+        padding: 30px 0px;
+    }  
+    .titleText{
+        margin-left: 0;
+    }  
+    .about-section .titleText {
+        margin-left: 40px;
+    } 
+    .skill-sect .titleText {
+        margin-left: 45px;
+    }   
+    .testimonial-sect .titleText:before {
+        left: 32%;
+    }
+    .testimonial-sect .titleText:after {
+        right: 32%;
+    }
+    .testimonial-sect .swiper-slide {
+        min-height: 450px;
+    }    
+    .testiIcons i {
+        top: 5%;
+        left: 20%;
+    }
+    .footer {
+        min-height: 920px;
+        max-height: 920px;
+    }
+    .footer-sect {
+        display: block;
+        padding: 40px 0px;
+    }  
+    .footerCol .paraText {
+        max-width: 500px;
+        margin-bottom: 30px;
+    }
+    .bt-links a {
+        font-size: 14px;
+    }
+    .video-playBtn a i {
+        width: 70px;
+        height: 70px;
+    }
+    /* About Us */
+    .innerTitles {
+        font-size: 45px;
+    }
+    .aboutSkill {
+        min-height: 600px;
+    }
+    /* service page */
+    .service-card2 {
+        max-width: 250px;
+        min-height: 670px;
+        max-height: 670px;
+    }
+    .service-card2 img {
+        max-width: 250px;
+    }
+    /* contact page */
+    .client-sect .swiper .swiper-button-prev.customswiper-btn {
+        left: 43%;
+    }
+    .client-sect .swiper .swiper-button-next, .swiper-button-prev {
+        right: 43% !important;
+    }
+    /* blog page css start here */
+    .blog .titleText:before {
+        left: 33%;
+    }
+    .blog .titleText::after {
+        right: 33%;
+    }
+    .blog-img img {
+        max-width: 430px;
+        min-height: 300px;
+    }
+    .blogLeft-bgwhite {
+        max-width: 430px;
+        top: 20%;
+        left: 0;
+    }
+    .bg-orange {
+        right: 42.1%;
+        top: 16.2%;
+        transform: rotate(0deg);
+    }
+    .blogRight-wrap {
+        margin-top: 0;
+    }
+    .blog {
+        padding-bottom: 50px;
+    }
+     .tag-content {
+        margin: 0 8px 20px 0;
+    }
+}
+@media only screen and (max-width: 586px) {
+    .bg-orange {
+        right: 23.5%;
+    }
+}
+@media only screen and (max-width:575px){
+    .titleText {
+        margin-left: 45px;
+    }
+    .skill-progressBar {
+        max-width: 420px;
+    }
+    .videoSect {
+        margin-top: -150px;
+    }
+    .footer {
+        min-height: 950px;
+        max-height: 950px;
+    }
+    .testimonial-sect .titleText:before {
+        left: 27%;
+    } 
+    .testimonial-sect .titleText:after {
+        right: 27%;
+    }
+    .testimonial-sect .titleText {
+        margin-left: 0;
+    }
+    .service-section .titleText:before {
+        left: 24%;
+    }
+    .service-section .titleText:after {
+        right: 24%;
+    }
+    .service-section .titleText {
+        margin-left: 0;
+    }  
+    .boldText {
+        font-size: 35px;
+    }
+    .bannerText-border {
+        font-size: 20px;
+        max-width: 200px;
+    }
+    .banner-section {
+        min-height: 650px;
+        padding: 150px 0px;
+    }  
+    /* About Page  */
+    .innerTitles {
+        font-size: 40px;
+    }
+    .pagesLinks a {
+        font-size: 18px;
+    }
+    .pagesLinks span {
+        padding: 0px 10px;
+    }
+    /* service page */
+    .service-card2 {
+        max-width: 350px;
+        min-height: 580px;
+        max-height: 580px;
+        margin: 0 auto 30px;
+    }
+    .service-card2 img {
+        max-width: 352px;
+    }
+    .aboutSkill {
+        min-height: 650px;
+    }
+    .blog .titleText {
+        margin-left: 0;
+    }
+    .blog .titleText:before {
+        left: 28%;
+    }
+    .blog .titleText::after {
+        right: 28%;
+    }
+    .bg-orange {
+        right: 21.9%;
+        top: 16.11%;
+    }
+    .login-page {
+        flex-direction: column;
+        height: 100vh;
+    }
+    .login-leftwrap {
+        min-height: 30vh;
+    }
+    .login-rightwrap {
+        padding-top: 50px;
+    }
+}
+@media only screen and (max-width:480px){
+    .all-links{
+        right: -110%;
+        max-width: 300px;
+        min-width: 300px;
+    }
+    .top-header-bg .container {
+        justify-content: center;
+    }
+    .social-icons-sect2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .service-section .titleText:before {
+        left: 20%;
+    }
+    .service-section .titleText:after {
+        right: 20%;
+    }
+    .skill-progressBar {
+        max-width: 300px;
+    }
+    .title h3 {
+        font-size: 16px;
+    }
+    .videoSect {
+        margin-top: -90px;
+    }
+    .playBtn-2 a i {
+        width: 50px;
+        height: 50px;
+    }
+    .playBtn-2 {
+        top: 30%;
+        left: 38%;
+    }  
+    .bottom-video-sect {
+        display: block;
+    } 
+    .smallBox {
+        margin: 20px 0px;
+    } 
+    .testimonial-sect .titleText:before {
+        left: 23%;
+    } 
+    .testimonial-sect .titleText:after {
+        right: 24%;
+    }
+    .testiIcons i {
+        left: 15%;
+    } 
+    .footer {
+        min-height: 990px;
+        max-height: 990px;
+    } 
+    .bottombg-footerInner {
+        flex-wrap: wrap;
+    } 
+    /* contact page */
+    .client-sect .swiper .swiper-button-prev.customswiper-btn {
+        left: 38%;
+    }
+    .client-sect .swiper .swiper-button-next, .swiper-button-prev {
+        right: 38% !important;
+    }
+    .titleContact {
+        font-size: 20px;
+    }
+    .blog .titleText::after {
+        right: 25%;
+    }
+    .blog .titleText:before {
+        left: 25%;
+    }
+    .particular-border:before {
+        width: 300px;
+    }
+    .bg-orange {
+        right: 5.8%;
+    }
+}
+@media only screen and (max-width:375px){
+    .logo-sect img {
+        max-width: 120px;
+    }
+    .boldText {
+        font-size: 25px;
+    }
+    .banner-section {
+        min-height: 550px;
+        padding: 150px 0px 100px;
+    }    
+    .semiBoldtext {
+        font-size: 20px;
+    }
+    .service-section .titleText:before {
+        left: 15%;
+    }
+    .service-section .titleText:after {
+        right: 15%;
+    }
+    .service-card {
+        min-height: 300px;
+        max-height: 300px;
+        max-width: 270px;
+    }  
+    .service-card img {
+        max-width: 270px;
+    }  
+    .skill-progressBar {
+        max-width: 250px;
+    }
+    .testimonial-sect .titleText:before {
+        left: 18%;
+    }
+    .testimonial-sect .titleText:after {
+        right: 18%;
+    }
+    .testiBox {
+        max-width: 280px;
+    }
+    .testiIcons i {
+        left: 10%;
+    }
+    .userName {
+        font-size: 18px;
+    }
+    .user_prof {
+        font-size: 14px;
+    }
+    .testi-bottomBox img {
+        max-width: 60px;
+    } 
+     /*About Page  */
+     .innerTitles {
+        font-size: 30px;
+    }
+    .pagesLinks a {
+        font-size: 14px;
+    }
+    /* service page */
+    .service-card2 img {
+        max-width: 296px;
+    }
+    .service-card2 {
+        min-height: 600px;
+        max-height: 600px;
+    }
+    .aboutSkill {
+        min-height: 680px;
+    }
+    /* blog page */
+    .blog-img img {
+        max-width: 350px;
+        min-height: 260px;
+    }
+    .bg-orange {
+        right: 0.2%;
+    }
+    .blogRight-wrap {
+        margin-top: 120px;
+    }
+    
+}
+@media only screen and (max-width:320px){
+    .blog .titleText:before {
+        left: 18%;
+    }
+    .blog .titleText::after {
+        right: 18%;
+    }
+    .blog-img img {
+        max-width: 295px;
+        min-height: 200px;
+    }
+    .bg-orange {
+        right: 0.2%;
+        top: 8.9%;
+    }
+    .blogLeft-wrap {
+        min-height: 1700px;
+    }
+    .blogLeft-bgwhite {
+        top: 12%;
+    }
+    .blogRight-wrap {
+        margin-top: 0;
+    }
+    .particular-border:before {
+        width: 240px;
+    }    
+}
+@media only screen and (max-width:375px){}
